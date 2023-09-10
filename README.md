@@ -1,3 +1,4 @@
+![logo](https://github.com/rushabhsurjuse/rushabhsurjuse/blob/main/Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 ### Hi there 👋
 <h1 align="center">Hi 👋, Rushabh Surjuse</h1>
 <h3 align="center">A passionate Java Developer</h3>
